@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2d1ccb8fd8249204792a39b7ce4f3db6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameMasterObject: {fileID: 11400000, guid: 4a68336992aa5e44283258c43ca7bebe, type: 2}
+  - carFollowCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3c5435e21a9d4547bd4f249e1a9b89a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameMaster: {fileID: 11400000, guid: 4a68336992aa5e44283258c43ca7bebe, type: 2}
+  - carStats: {fileID: 11400000, guid: d7da6ef0cb50dfc49b1e5a3de583bb63, type: 2}
+  - deathExplosion: {fileID: 7886596884192025684, guid: a357673ddad5aac4fb8c20274376c559, type: 3}
+  - gameOverCanvas: {fileID: 38989872401252375, guid: 097cc44444a657147940f219fac8b571, type: 3}
+  - healthMeter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

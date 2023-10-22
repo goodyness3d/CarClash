@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7582644bf526df547b477564fccbfb80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameMaster: {fileID: 11400000, guid: 4a68336992aa5e44283258c43ca7bebe, type: 2}
+  - mainCanvasAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

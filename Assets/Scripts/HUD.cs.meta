@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40220a9c542a8964bbf7045c0c2c8d3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wavesInfoText: {instanceID: 0}
+  - carsInfoText: {instanceID: 0}
+  - gameMaster: {fileID: 11400000, guid: 4a68336992aa5e44283258c43ca7bebe, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
